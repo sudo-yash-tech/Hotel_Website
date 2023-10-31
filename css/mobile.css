@@ -1,0 +1,82 @@
+/* Navbar Responsive */
+#navbar .logo
+{
+    float:none;
+    text-align: center;
+}
+
+#navbar ul, #navbar ul li 
+{
+    float: none;
+}
+
+#navbar ul li a
+{
+    padding:5px;
+    border-bottom: #444 dotted 1px;
+}
+
+/* ShowCase CSS Responsive */
+
+#showcase
+{
+    height: 100%; 
+}
+
+#showcase .showcase-content
+{
+    padding-top: 70px;
+    padding-bottom:30px;
+}
+
+/* Home-Info Responsive */
+
+#home-info .info-img
+{
+    display: none;
+}
+
+#home-info .info-content
+{
+    float: none;
+    width: 100%;
+    
+}
+
+/* Feactures Boxes Responsive */
+.box
+{
+    float: none;
+    width: 100%;
+}
+
+
+/* About Info Responsive */
+
+#about-info .info-right,
+#about-info .info-left
+{
+    float: none;
+    width: 100%;
+}
+
+#about-info .info-right
+{
+    margin-top:30px;
+}
+
+.l-heading
+{
+    text-align: center;
+}
+
+
+/* Contact Us Responsive */
+
+#contact-info .box
+{
+    border-bottom:#444 dotted 1px;
+}
+
+
+
